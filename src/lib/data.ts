@@ -8,7 +8,7 @@ export const PERSONAL = {
   github: "https://github.com/dhruv-code297",
   linkedin: "https://www.linkedin.com/in/dhruv-09a06a370/",
   leetcode: "https://leetcode.com/u/DhruvGambhir05/",
-  resumeUrl: "/resume3.pdf",
+  resumeUrl: "/resume",
   avatarUrl: "/avatar1.jpg",
 };
 
